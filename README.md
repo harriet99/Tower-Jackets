@@ -1,4 +1,6 @@
-### Tower-Jackets: A tower defense game built with Java and Android Studio
+## Tower-Jackets
+
+### A tower defense game built with Java and Android Studio
 
 ### 3 types of tower
 - Bee Tower: shoots enemy
