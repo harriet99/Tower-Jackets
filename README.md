@@ -1,10 +1,10 @@
-# Tower-Jackets
-## Tower defense game built with Java and Android Studio
+### Tower defense game built with Java and Android Studio
 
-###3 types of tower
+### 3 types of tower
 - Bee Tower: shoots enemy
 - Heart Tower: boosts hive HP
 - Coin Tower: gives user more coin
+
 
 - First page
 
