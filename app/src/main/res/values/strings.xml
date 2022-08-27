@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TowerJackets</string>
+    <string name="welcome_message">Welcome to Tower Jackets</string>
+    <string name="prompt_character_name">Enter character name</string>
+    <string name="start_button_text">Let\'s go!</string>
+    <string name="quit_button_text">Quit game!</string>
+    <string name="prompt_difficulty_level">Select Difficulty</string>
+    <string name="continue_message">Continue</string>
+    <string name="monument_text">\"This is a monument\"</string>
+</resources>
